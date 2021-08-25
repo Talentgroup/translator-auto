@@ -2,7 +2,7 @@ import time
 from GoogleTranslator import GoogleTranslator
 from lk_utils.toolbox import *
 
-
+#
 def readFile(fileName):
     with open(fileName, 'r') as f:
         paragraph = ''
