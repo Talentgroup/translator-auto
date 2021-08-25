@@ -36,5 +36,4 @@ def main():
 if __name__ == "__main__":
     startTime = time.time()
     main()
-    print()
     print('%.2f seconds' % (time.time() - startTime))
